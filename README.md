@@ -13,4 +13,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0952-word-subsets) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
