@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Lohith2005/LeetCode-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
