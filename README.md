@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0035-search-insert-position) |
 | [0952-word-subsets](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Lohith2005/LeetCode-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Table
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0007-reverse-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
