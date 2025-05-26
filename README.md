@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0344-reverse-string) |
 | [0952-word-subsets](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0952-word-subsets) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Lohith2005/LeetCode-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
