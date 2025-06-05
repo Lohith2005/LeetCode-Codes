@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0202-happy-number) |
 | [0952-word-subsets](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0952-word-subsets) |
 ## String
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
@@ -50,5 +52,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
