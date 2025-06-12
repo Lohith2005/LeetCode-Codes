@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
+| [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 | [0952-word-subsets](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Lohith2005/LeetCode-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Table
@@ -16,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0202-happy-number) |
+| [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 | [0952-word-subsets](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0952-word-subsets) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0344-reverse-string) |
+| [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 | [0952-word-subsets](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0952-word-subsets) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Lohith2005/LeetCode-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0035-search-insert-position) |
+| [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 ## Simulation
 |  |
 | ------- |
@@ -66,8 +70,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
+| [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
+## Trie
+|  |
+| ------- |
+| [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
