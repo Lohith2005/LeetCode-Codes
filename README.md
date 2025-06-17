@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0237-delete-node-in-a-linked-list) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
