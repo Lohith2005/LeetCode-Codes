@@ -17,7 +17,6 @@ class Solution {
         while (curr != null) {
             if (curr.next != null && curr.val == curr.next.val) {
                 int num = curr.val;
-
                 while (curr != null && curr.val == num) {
                     curr = curr.next;
                 }
