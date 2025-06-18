@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0202-happy-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0237-delete-node-in-a-linked-list) |
