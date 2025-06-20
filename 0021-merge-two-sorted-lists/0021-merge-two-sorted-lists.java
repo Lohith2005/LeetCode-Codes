@@ -9,27 +9,27 @@
  * }
  */
 class Solution {
-    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode dummy = new ListNode();
-        ListNode curr = dummy;
+    public void sortList(ListNode head){
+        ListNode currNode=head;
 
-        while (list1 != null && list2 != null) {
-            if (list1.val < list2.val) {
-                curr.next = list1;
-                list1 = list1.next;
-            } else {
-                curr.next = list2;
-                list2 = list2.next;
+        while(currNode.next!=null){
+            if(currNode.val>currNode.next.val){
+                int temp=currNode.val;
+                currNode.val=currNode.next.val;
+                currNode.next.val=temp;
             }
-            curr = curr.next;
         }
+    }
 
-        if (list1 != null) {
-            curr.next = list1;
-        } else {
-            curr.next = list2;
+
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        ListNode currNode=list1;
+        ListNode head2=list2;
+        while(currNode!=null){
+            currNode=currNode.next;
         }
-
-        return dummy.next;
+        currNode.next=head2;
+        sortList(list1);
+        return list1;
     }
 }
