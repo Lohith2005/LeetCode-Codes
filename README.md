@@ -97,4 +97,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0024-swap-nodes-in-pairs) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
