@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0202-happy-number) |
 | [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 | [0952-word-subsets](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0952-word-subsets) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0344-reverse-string) |
 ## Divide and Conquer
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0328-odd-even-linked-list) |
 ## Dynamic Programming
