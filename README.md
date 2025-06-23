@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
 | [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 | [0952-word-subsets](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0952-word-subsets) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Lohith2005/LeetCode-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
 | [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0145-binary-tree-postorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
