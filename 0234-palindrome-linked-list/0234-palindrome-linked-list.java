@@ -14,17 +14,16 @@ class Solution {
         List<Integer> li=new ArrayList<>();
         if(head==null||head.next==null)return true;
         ListNode curr=head;
+        ListNode curr2=head;
         while(curr!=null){
             sk.add(curr.val);
-            li.add(curr.val);
             curr=curr.next;
         }
-        for(int i=0;i<li.size();i++){
-            int t=sk.pop();
-            System.out.println(t+" ");
-            if(t!=li.get(i)){   
+        while(curr2!=null){
+            if(sk.pop()!=curr2.val){   
                 return false;
             }
+            curr2=curr2.next;
         }
         return true;
     }
