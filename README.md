@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0217-contains-duplicate) |
+| [0782-jewels-and-stones](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0782-jewels-and-stones) |
 | [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 | [0952-word-subsets](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0952-word-subsets) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0344-reverse-string) |
+| [0782-jewels-and-stones](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0782-jewels-and-stones) |
 | [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 | [0952-word-subsets](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0952-word-subsets) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
