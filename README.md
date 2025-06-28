@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0217-contains-duplicate) |
 | [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 | [0952-word-subsets](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0952-word-subsets) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0217-contains-duplicate) |
 | [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 | [0952-word-subsets](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0952-word-subsets) |
 ## String
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0217-contains-duplicate) |
 | [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
