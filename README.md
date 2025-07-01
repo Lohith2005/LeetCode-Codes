@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0217-contains-duplicate) |
 | [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 | [0952-word-subsets](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0952-word-subsets) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0292-nim-game) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0344-reverse-string) |
