@@ -232,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0196-delete-duplicate-emails) |
+| [0595-big-countries](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
