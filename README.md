@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0258-add-digits) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0070-climbing-stairs) |
 | [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 ## Trie
 |  |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0595-big-countries) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
