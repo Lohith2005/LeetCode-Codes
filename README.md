@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
@@ -251,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
