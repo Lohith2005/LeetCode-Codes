@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 | [0952-word-subsets](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0952-word-subsets) |
+| [0958-sort-array-by-parity-ii](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0344-reverse-string) |
+| [0958-sort-array-by-parity-ii](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0217-contains-duplicate) |
 | [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
+| [0958-sort-array-by-parity-ii](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
