@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Lohith2005/LeetCode-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3227-find-missing-and-repeated-values](https://github.com/Lohith2005/LeetCode-Codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0808-number-of-matching-subsequences) |
 | [0952-word-subsets](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3227-find-missing-and-repeated-values](https://github.com/Lohith2005/LeetCode-Codes/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Lohith2005/LeetCode-Codes/tree/master/0292-nim-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3227-find-missing-and-repeated-values](https://github.com/Lohith2005/LeetCode-Codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -270,4 +273,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lohith2005/LeetCode-Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/Lohith2005/LeetCode-Codes/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
